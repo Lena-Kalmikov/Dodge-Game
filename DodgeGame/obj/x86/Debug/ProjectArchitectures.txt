@@ -1,0 +1,4 @@
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\DodgeGame.csproj;x86
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\Logic\Logic.csproj;x86
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\Model\Model.csproj;x86
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\Model\Model.csproj;x86

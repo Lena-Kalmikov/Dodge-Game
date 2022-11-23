@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Logic\\Logic.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Logic\\Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Logic\\Logic.csproj",
+        "projectName": "Logic",
+        "projectPath": "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Logic\\Logic.csproj",
+        "packagesPath": "C:\\Users\\Lena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.12, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\Lena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lena\\Desktop\\לימודים\\Sela\\Projects\\1st project - c# methodology\\Dodge_Game_Lena2\\Dodge_Game_Lena\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.12, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

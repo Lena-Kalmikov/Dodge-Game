@@ -1,0 +1,159 @@
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\App.xbf
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\MainPage.xbf
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.xr.xml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.exe
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.pdb
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\resources.pri
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\AppxManifest.xml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Core\AppxManifest.xml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Core\DodgeGame.exe
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.build.appxrecipe
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\System.Runtime.dll
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.dll
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.dll
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.pdb
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.pri
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.pdb
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.pri
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.AssemblyReference.cache
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.g.i.cs
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.g.cs
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.g.i.cs
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.g.cs
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.xaml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.xaml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.xbf
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.xbf
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\XamlSaveStateFile.xml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.CoreCompileInputs.cache
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.CopyComplete
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\Logic.pri.xml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\Model.pri.xml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.exe
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.pdb
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\ResourceHandlingTask.state
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\priconfig.xml
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\priconfig.xml.intermediate
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\unfiltered.layout.resfiles
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\filtered.layout.resfiles
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\excluded.layout.resfiles
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\resources.resfiles
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\resources.resfiles.intermediate
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\pri.resfiles
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\pri.resfiles.intermediate
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\qualifiers.txt
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\qualifiers.txt.intermediate
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\ProjectArchitectures.txt
+D:\C#\Sela\2_C# methodology\final project\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\App.xbf
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\MainPage.xbf
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.xr.xml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.exe
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.pdb
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\resources.pri
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\AppxManifest.xml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Core\AppxManifest.xml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Core\DodgeGame.exe
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.build.appxrecipe
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\System.Runtime.dll
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.dll
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.dll
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.pdb
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.pri
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.pdb
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.pri
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.AssemblyReference.cache
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.g.i.cs
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.g.cs
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.g.i.cs
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.g.cs
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.xaml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.xaml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.xbf
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.xbf
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\XamlSaveStateFile.xml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.CoreCompileInputs.cache
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.CopyComplete
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\Logic.pri.xml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\Model.pri.xml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.exe
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.pdb
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\ResourceHandlingTask.state
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\priconfig.xml
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\priconfig.xml.intermediate
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\unfiltered.layout.resfiles
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\filtered.layout.resfiles
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\excluded.layout.resfiles
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\resources.resfiles
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\resources.resfiles.intermediate
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\pri.resfiles
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\pri.resfiles.intermediate
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\qualifiers.txt
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\qualifiers.txt.intermediate
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\ProjectArchitectures.txt
+D:\C#\Sela\projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\App.xbf
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\MainPage.xbf
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.xr.xml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.exe
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.pdb
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\resources.pri
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\AppxManifest.xml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Core\DodgeGame.exe
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\DodgeGame.build.appxrecipe
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\System.Runtime.dll
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.dll
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.dll
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.pdb
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Logic.pri
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.pdb
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\bin\x86\Debug\Model.pri
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.AssemblyReference.cache
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.g.i.cs
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.g.cs
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.g.cs
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.xaml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.xaml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\App.xbf
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MainPage.xbf
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.CoreCompileInputs.cache
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.csproj.CopyComplete
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\Logic.pri.xml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\Model.pri.xml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.exe
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\DodgeGame.pdb
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\priconfig.xml
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\resources.resfiles
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\pri.resfiles
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\qualifiers.txt
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Lena\Desktop\לימודים\Projects\1st project - c# methodology\Dodge_Game_Lena2\Dodge_Game_Lena\DodgeGame\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424743200000000.json
